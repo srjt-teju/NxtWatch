@@ -1,0 +1,44 @@
+.video-details-con {
+  padding: 30px;
+  width: 100%;
+  font-family: 'Roboto';
+}
+.video-text-con {
+  padding-top: 20px;
+}
+.dot-icon {
+  margin-top: 15px;
+}
+.date-like-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+}
+.icons-con {
+  display: flex;
+  align-items: center;
+}
+.like-icon {
+  font-size: 20px;
+}
+.icon-text {
+  font-size: 16px;
+  margin-left: 5px;
+  font-family: 'Roboto';
+}
+.channel-details-con {
+  display: flex;
+  padding-top: 20px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.channel-logo {
+  height: 50px;
+  margin-top: 10px;
+}
+.channel-text-con {
+  padding-top: 0px;
+  margin-top: 0px;
+  margin-left: 20px;
+}

@@ -1,0 +1,33 @@
+.transparent-btn {
+  background-color: transparent;
+  padding: 0px;
+  border: 0px;
+  cursor: pointer;
+  outline: none;
+}
+.side-bar-list {
+  list-style-type: none;
+  padding: 0px;
+}
+.side-bar-icon {
+  font-size: 20px;
+  margin-right: 25px;
+}
+.contact-con {
+  padding: 20px;
+}
+.side-bar-logo {
+  height: 30px;
+  margin-right: 10px;
+}
+.side-bar-logos-con {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  padding: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.active {
+  color: #ff0000;
+}

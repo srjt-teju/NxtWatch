@@ -1,0 +1,10 @@
+.game-card {
+  height: 500px;
+  width: 300px;
+  margin: 20px;
+  margin-bottom: 10px;
+}
+.game-thumbnail {
+  width: 100%;
+  height: 400px;
+}

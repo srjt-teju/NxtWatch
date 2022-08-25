@@ -1,0 +1,8 @@
+.no-saved-img {
+  height: 450px;
+}
+.saved-videos-list {
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+}

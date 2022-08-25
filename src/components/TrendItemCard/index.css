@@ -1,0 +1,21 @@
+.trend-item {
+  display: flex;
+  flex-wrap: wrap;
+  height: 270px;
+  justify-content: flex-start;
+  width: 100%;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.trend-thumbnail-con {
+  width: 40%;
+}
+.trend-thumbnail {
+  height: 220px;
+  width: 100%;
+}
+.trend-details {
+  width: 60%;
+  padding: 20px;
+  padding-top: 5px;
+}

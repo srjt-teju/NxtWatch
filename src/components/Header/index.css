@@ -1,0 +1,25 @@
+.header-logo {
+  height: 35px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.profile-img {
+  height: 35px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.header-icons-con {
+  display: flex;
+  align-items: center;
+}
+.moon-icon {
+  font-size: 30px;
+  margin-left: 10px;
+  margin-right: 15px;
+}
+.light-icon {
+  font-size: 30px;
+  margin-left: 10px;
+  margin-right: 15px;
+  color: #ffffff;
+}

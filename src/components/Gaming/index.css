@@ -1,0 +1,7 @@
+.gaming-videos-list {
+  display: flex;
+  padding: 30px;
+  padding-top: 10px;
+  list-style-type: none;
+  flex-wrap: wrap;
+}
